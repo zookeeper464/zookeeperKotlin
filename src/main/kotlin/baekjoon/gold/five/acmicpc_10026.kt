@@ -42,5 +42,5 @@ fun searchDoubleList(color:String, row:Int, col: Int, M: Int, N: Int, doubleList
 }
 
 fun main () {
-    println(acmicpc_10026())
+    println(compareProtanopiaAndNormal())
 }
